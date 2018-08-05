@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="js/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+    $("button").click(function(){
+        var convo = $('#convo');
+        var question = $('#q').val();
+        var question_template = `<p style="color:blue">${question}</p>`
+        convo.append(question_template);
+        $.ajax({
+          type: "POST",
+          url: 'ask/123',
+          contentType: "application/json",
+          data: JSON.stringify({question: question}),
+          success: function(data){
+              var answer = data.answer;
+              var answer_template = `<p style="color:red">${answer}</p>`
+              convo.append(answer_template);            
+          },
+          dataType: "json"
+        });
+
+    
+    });
+});
+</script>
+</head>
+<body>
+<div id="convo">
+
+</div>
+<div>
+    <textarea id="q"></textarea>
+    <button>Send</button>
+</div>
+
+</body>
+</html>
