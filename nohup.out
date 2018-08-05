@@ -1,0 +1,508 @@
+[I 07:07:55.532 NotebookApp] [nb_conda_kernels] enabled, 4 kernels found
+[I 07:07:56.012 NotebookApp] [nb_anacondacloud] enabled
+[I 07:07:56.015 NotebookApp] [nb_conda] enabled
+[I 07:07:56.051 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 07:07:56.051 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 07:07:56.053 NotebookApp] Serving notebooks from local directory: /home/ubuntu/hk01/hk01
+[I 07:07:56.053 NotebookApp] 0 active kernels 
+[I 07:07:56.053 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=c1cb80440264196fe4926a62555ed17d80ca43029e8d6214
+[I 07:07:56.053 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 07:07:56.054 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=c1cb80440264196fe4926a62555ed17d80ca43029e8d6214
+[?1049h[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m(B[m[22d(B[0;1m[33m[44mGetting http://localhost:8888/notebooks/offsite_test.ipynb?token=da147c914f389c[K[39;49m(B[m(B[0;1m[33m[44mLooking up localhost:8888[K[39;49m(B[m(B[0;1m[33m[44mMaking HTTP connection to localhost:8888[39;49m(B[m(B[0;1m[33m[44mSending HTTP request.[K[39;49m(B[m(B[0;1m[33m[44mHTTP request sent; waiting for response.[39;49m(B[m
+
+[24;1H[?1049l[?1l>[I 07:07:56.092 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 07:08:22.472 NotebookApp] Kernel started: 40fdebc7-d786-4e6f-a7dd-93b15c5d74d1
+[I 07:08:24.002 NotebookApp] Adapting to protocol v5.1 for kernel 40fdebc7-d786-4e6f-a7dd-93b15c5d74d1
+[I 07:10:14.827 NotebookApp] Saving file at /offsite_test.ipynb
+[I 07:10:22.610 NotebookApp] Saving file at /offsite_test.ipynb
+[I 07:10:23.555 NotebookApp] Saving file at /offsite_test.ipynb
+[I 07:11:51.814 NotebookApp] Creating new notebook in 
+[I 07:11:54.157 NotebookApp] Kernel started: 158322f6-d19f-48ba-8afa-7b66e819f9e1
+[I 07:11:54.627 NotebookApp] Adapting to protocol v5.1 for kernel 158322f6-d19f-48ba-8afa-7b66e819f9e1
+[I 07:12:14.652 NotebookApp] Saving file at /q1.ipynb
+[I 07:12:15.811 NotebookApp] Saving file at /q1.ipynb
+[I 07:12:16.056 NotebookApp] Saving file at /q1.ipynb
+[I 07:12:16.298 NotebookApp] Saving file at /q1.ipynb
+[I 07:12:23.168 NotebookApp] Saving file at /q3b.ipynb
+[I 07:12:30.891 NotebookApp] Saving file at /q1.ipynb
+[I 07:12:36.014 NotebookApp] Adapting to protocol v5.1 for kernel 158322f6-d19f-48ba-8afa-7b66e819f9e1
+[I 07:12:41.755 NotebookApp] Creating new notebook in 
+[I 07:12:43.141 NotebookApp] Kernel started: 90461c7d-697b-458e-8116-f33c43a80624
+[I 07:12:43.607 NotebookApp] Adapting to protocol v5.1 for kernel 90461c7d-697b-458e-8116-f33c43a80624
+[I 07:12:56.698 NotebookApp] Saving file at /q2.ipynb
+[I 07:13:08.923 NotebookApp] Saving file at /q2.ipynb
+[I 07:13:08.975 NotebookApp] Saving file at /q2.ipynb
+[I 07:13:09.197 NotebookApp] Saving file at /q2.ipynb
+[I 07:13:09.258 NotebookApp] Saving file at /q2.ipynb
+[I 07:13:09.451 NotebookApp] Saving file at /q2.ipynb
+[I 07:13:09.652 NotebookApp] Saving file at /q2.ipynb
+[I 07:13:29.276 NotebookApp] Adapting to protocol v5.1 for kernel 90461c7d-697b-458e-8116-f33c43a80624
+[I 07:14:24.476 NotebookApp] Saving file at /q3b.ipynb
+[I 07:14:52.800 NotebookApp] Saving file at /q3b.ipynb
+[I 07:14:52.988 NotebookApp] Saving file at /q3b.ipynb
+[I 07:14:53.204 NotebookApp] Saving file at /q3b.ipynb
+[I 07:14:53.860 NotebookApp] Saving file at /q3b.ipynb
+[I 07:14:54.061 NotebookApp] Saving file at /q3b.ipynb
+[I 07:15:05.386 NotebookApp] Creating new notebook in 
+[I 07:15:07.582 NotebookApp] Kernel started: e17d0814-cc9f-407a-99e4-3e1fe0f07ea5
+[I 07:15:08.049 NotebookApp] Adapting to protocol v5.1 for kernel e17d0814-cc9f-407a-99e4-3e1fe0f07ea5
+[I 07:17:07.660 NotebookApp] Saving file at /q3c.ipynb
+[I 07:19:08.109 NotebookApp] Saving file at /q3c.ipynb
+[I 07:25:07.731 NotebookApp] Saving file at /q3c.ipynb
+[W 07:26:14.086 NotebookApp] IOPub data rate exceeded.
+    The notebook server will temporarily stop sending output
+    to the client in order to avoid crashing it.
+    To change this limit, set the config variable
+    `--NotebookApp.iopub_data_rate_limit`.
+[I 07:27:07.793 NotebookApp] Saving file at /q3c.ipynb
+[I 07:29:26.107 NotebookApp] Saving file at /q3c.ipynb
+[I 07:29:28.582 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel e17d0814-cc9f-407a-99e4-3e1fe0f07ea5 restarted
+[I 07:56:29.883 NotebookApp] Adapting to protocol v5.1 for kernel e17d0814-cc9f-407a-99e4-3e1fe0f07ea5
+[I 07:59:15.083 NotebookApp] Saving file at /q3c.ipynb
+[I 07:59:16.594 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel e17d0814-cc9f-407a-99e4-3e1fe0f07ea5 restarted
+[I 08:02:16.664 NotebookApp] Adapting to protocol v5.1 for kernel e17d0814-cc9f-407a-99e4-3e1fe0f07ea5
+[I 08:02:24.453 NotebookApp] Saving file at /q3c.ipynb
+[I 08:02:31.602 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel e17d0814-cc9f-407a-99e4-3e1fe0f07ea5 restarted
+[I 08:05:10.620 NotebookApp] KernelRestarter: restarting kernel (1/5)
+[I 08:05:53.936 NotebookApp] Adapting to protocol v5.1 for kernel e17d0814-cc9f-407a-99e4-3e1fe0f07ea5
+[I 08:06:13.627 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel e17d0814-cc9f-407a-99e4-3e1fe0f07ea5 restarted
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[C 08:07:11.122 NotebookApp] No such file or directory: /home/ubuntu/hk01/hk01/offsite_test.ipynb
+[I 08:07:45.762 NotebookApp] [nb_conda_kernels] enabled, 4 kernels found
+[I 08:07:46.129 NotebookApp] [nb_anacondacloud] enabled
+[I 08:07:46.133 NotebookApp] [nb_conda] enabled
+[I 08:07:46.212 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 08:07:46.212 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 08:07:46.216 NotebookApp] Serving notebooks from local directory: /home/ubuntu/hk01/hk01
+[I 08:07:46.216 NotebookApp] 0 active kernels 
+[I 08:07:46.216 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=d9636967423b354cd455acf30f9cdcc9631760ec6a4918b6
+[I 08:07:46.216 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:07:46.217 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d9636967423b354cd455acf30f9cdcc9631760ec6a4918b6
+[?1049h[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m(B[m[22d(B[0;1m[33m[44mGetting http://localhost:8888/notebooks/q3c.ipynb?token=d7f5db5cd8ee66f081d8ef3[K[39;49m(B[m(B[0;1m[33m[44mLooking up localhost:8888[K[39;49m(B[m(B[0;1m[33m[44mMaking HTTP connection to localhost:8888[39;49m(B[m(B[0;1m[33m[44mSending HTTP request.[K[39;49m(B[m(B[0;1m[33m[44mHTTP request sent; waiting for response.[39;49m(B[m
+
+[24;1H[?1049l[?1l>[I 08:07:46.281 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 08:08:06.281 NotebookApp] Kernel started: d455268e-ce36-4d8c-8a5a-267497972fb5
+[I 08:08:07.556 NotebookApp] Adapting to protocol v5.1 for kernel d455268e-ce36-4d8c-8a5a-267497972fb5
+[I 08:08:42.280 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel d455268e-ce36-4d8c-8a5a-267497972fb5 restarted
+[I 08:09:51.372 NotebookApp] Adapting to protocol v5.1 for kernel d455268e-ce36-4d8c-8a5a-267497972fb5
+[I 08:09:57.081 NotebookApp] Saving file at /q3c.ipynb
+[I 08:11:51.237 NotebookApp] Saving file at /q3c.ipynb
+[I 08:13:51.242 NotebookApp] Saving file at /q3c.ipynb
+[I 08:14:14.330 NotebookApp] Saving file at /q3c.ipynb
+[I 08:15:51.247 NotebookApp] Saving file at /q3c.ipynb
+[I 08:15:55.220 NotebookApp] Saving file at /q3c.ipynb
+[I 08:17:14.912 NotebookApp] Saving file at /q3c.ipynb
+[I 08:17:52.127 NotebookApp] Saving file at /q3c.ipynb
+[I 08:19:51.247 NotebookApp] Saving file at /q3c.ipynb
+[I 08:21:51.272 NotebookApp] Saving file at /q3c.ipynb
+[I 08:23:52.193 NotebookApp] Saving file at /q3c.ipynb
+[I 08:27:25.340 NotebookApp] Saving file at /q3c.ipynb
+[I 08:27:51.240 NotebookApp] Saving file at /q3c.ipynb
+[I 08:29:07.464 NotebookApp] Saving file at /q3c.ipynb
+[I 08:29:31.738 NotebookApp] Saving file at /q3c.ipynb
+[I 08:29:51.263 NotebookApp] Saving file at /q3c.ipynb
+[I 08:30:25.225 NotebookApp] Saving file at /q3c.ipynb
+[I 08:31:19.029 NotebookApp] Kernel interrupted: d455268e-ce36-4d8c-8a5a-267497972fb5
+[I 08:31:33.180 NotebookApp] Saving file at /q3c.ipynb
+[I 08:31:51.250 NotebookApp] Saving file at /q3c.ipynb
+[I 08:33:52.188 NotebookApp] Saving file at /q3c.ipynb
+[I 08:35:51.467 NotebookApp] Saving file at /q3c.ipynb
+[I 08:37:52.244 NotebookApp] Saving file at /q3c.ipynb
+[I 08:39:51.419 NotebookApp] Saving file at /q3c.ipynb
+[I 08:41:52.276 NotebookApp] Saving file at /q3c.ipynb
+[I 08:43:52.304 NotebookApp] Saving file at /q3c.ipynb
+[I 08:45:52.340 NotebookApp] Saving file at /q3c.ipynb
+[I 08:46:35.808 NotebookApp] Kernel interrupted: d455268e-ce36-4d8c-8a5a-267497972fb5
+[I 08:47:51.462 NotebookApp] Saving file at /q3c.ipynb
+[I 08:49:51.464 NotebookApp] Saving file at /q3c.ipynb
+[I 08:50:52.322 NotebookApp] Saving file at /q3c.ipynb
+[I 08:50:59.830 NotebookApp] Saving file at /q3c.ipynb
+[I 08:51:51.274 NotebookApp] Saving file at /q3c.ipynb
+[I 08:53:51.270 NotebookApp] Saving file at /q3c.ipynb
+[I 08:54:25.225 NotebookApp] Saving file at /q3c.ipynb
+[I 08:55:52.152 NotebookApp] Saving file at /q3c.ipynb
+[I 09:03:52.149 NotebookApp] Saving file at /q3c.ipynb
+[I 09:05:51.274 NotebookApp] Saving file at /q3c.ipynb
+[I 09:07:51.273 NotebookApp] Saving file at /q3c.ipynb
+[I 09:11:51.274 NotebookApp] Saving file at /q3c.ipynb
+[I 09:12:51.529 NotebookApp] Saving file at /q3c.ipynb
+[I 09:14:18.241 NotebookApp] Kernel interrupted: d455268e-ce36-4d8c-8a5a-267497972fb5
+[I 09:15:51.341 NotebookApp] Saving file at /q3c.ipynb
+[I 09:17:51.287 NotebookApp] Saving file at /q3c.ipynb
+[I 09:19:27.952 NotebookApp] Saving file at /q3c.ipynb
+[I 09:21:07.765 NotebookApp] Saving file at /q3c.ipynb
+[I 09:25:37.687 NotebookApp] Saving file at /q3c.ipynb
+[I 09:25:51.283 NotebookApp] Saving file at /q3c.ipynb
+[I 09:26:36.668 NotebookApp] Saving file at /q3c.ipynb
+[I 09:26:44.776 NotebookApp] Saving file at /q3c.ipynb
+[I 09:27:51.329 NotebookApp] Saving file at /q3c.ipynb
+[I 09:29:51.344 NotebookApp] Saving file at /q3c.ipynb
+[I 09:31:51.335 NotebookApp] Saving file at /q3c.ipynb
+[I 09:33:52.303 NotebookApp] Saving file at /q3c.ipynb
+[I 09:35:51.346 NotebookApp] Saving file at /q3c.ipynb
+[I 09:37:26.533 NotebookApp] Saving file at /q3c.ipynb
+[I 09:37:41.722 NotebookApp] Saving file at /q3c.ipynb
+[I 09:37:51.282 NotebookApp] Saving file at /q3c.ipynb
+[I 09:38:53.131 NotebookApp] Saving file at /q3c.ipynb
+[I 09:39:39.739 NotebookApp] Saving file at /q3c.ipynb
+[I 09:41:52.226 NotebookApp] Saving file at /q3c.ipynb
+[I 09:51:51.409 NotebookApp] Saving file at /q3c.ipynb
+[I 09:53:52.226 NotebookApp] Saving file at /q3c.ipynb
+[I 09:57:51.293 NotebookApp] Saving file at /q3c.ipynb
+[I 09:59:51.298 NotebookApp] Saving file at /q3c.ipynb
+[I 10:01:52.171 NotebookApp] Saving file at /q3c.ipynb
+[I 10:03:52.181 NotebookApp] Saving file at /q3c.ipynb
+[I 10:07:51.303 NotebookApp] Saving file at /q3c.ipynb
+[I 10:09:52.177 NotebookApp] Saving file at /q3c.ipynb
+[I 10:11:51.358 NotebookApp] Saving file at /q3c.ipynb
+[I 10:13:51.303 NotebookApp] Saving file at /q3c.ipynb
+[I 10:15:51.316 NotebookApp] Saving file at /q3c.ipynb
+[I 10:17:48.721 NotebookApp] Saving file at /q3c.ipynb
+[I 10:21:51.317 NotebookApp] Saving file at /q3c.ipynb
+[I 10:23:51.314 NotebookApp] Saving file at /q3c.ipynb
+[I 10:24:51.699 NotebookApp] Saving file at /q3c.ipynb
+[I 10:25:51.312 NotebookApp] Saving file at /q3c.ipynb
+[I 10:25:54.246 NotebookApp] Saving file at /q3c.ipynb
+[I 10:26:22.774 NotebookApp] Saving file at /q3c.ipynb
+[I 10:26:27.931 NotebookApp] Saving file at /q3c.ipynb
+[I 10:27:30.072 NotebookApp] Kernel interrupted: d455268e-ce36-4d8c-8a5a-267497972fb5
+[I 10:27:51.317 NotebookApp] Saving file at /q3c.ipynb
+[I 10:27:52.772 NotebookApp] Kernel interrupted: d455268e-ce36-4d8c-8a5a-267497972fb5
+[I 10:27:54.896 NotebookApp] Saving file at /q3c.ipynb
+[I 10:28:35.697 NotebookApp] Saving file at /q3c.ipynb
+[I 10:28:36.441 NotebookApp] Saving file at /q3c.ipynb
+[I 10:28:39.857 NotebookApp] Saving file at /q3c.ipynb
+[I 10:28:40.077 NotebookApp] Saving file at /q3c.ipynb
+[I 10:28:40.379 NotebookApp] Saving file at /q3c.ipynb
+[I 10:28:56.159 NotebookApp] Saving file at /q3c.ipynb
+[I 10:29:19.602 NotebookApp] Saving file at /q3c.ipynb
+[I 10:29:51.346 NotebookApp] Saving file at /q3c.ipynb
+[I 10:31:08.615 NotebookApp] Saving file at /q3c.ipynb
+[I 10:31:37.356 NotebookApp] Saving file at /q3c.ipynb
+[I 10:31:37.587 NotebookApp] Saving file at /q3c.ipynb
+[I 10:31:37.823 NotebookApp] Saving file at /q3c.ipynb
+[I 10:31:51.064 NotebookApp] Saving file at /q3c.ipynb
+[I 10:31:51.292 NotebookApp] Saving file at /q3c.ipynb
+[I 10:31:51.456 NotebookApp] Saving file at /q3c.ipynb
+[I 10:33:06.572 NotebookApp] Saving file at /q3c.ipynb
+[I 10:33:11.524 NotebookApp] Saving file at /q3c.ipynb
+[I 10:33:41.743 NotebookApp] Saving file at /q3c.ipynb
+[I 10:33:42.349 NotebookApp] Saving file at /q3c.ipynb
+[I 10:33:42.590 NotebookApp] Saving file at /q3c.ipynb
+[I 10:33:47.622 NotebookApp] Saving file at /q3c.ipynb
+[I 10:33:47.829 NotebookApp] Saving file at /q3c.ipynb
+[I 10:33:48.043 NotebookApp] Saving file at /q3c.ipynb
+[I 10:33:50.831 NotebookApp] Saving file at /q3c.ipynb
+[I 10:35:51.317 NotebookApp] Saving file at /q3c.ipynb
+[I 10:36:32.751 NotebookApp] Saving file at /q3c.ipynb
+[I 10:36:43.099 NotebookApp] Saving file at /q3c.ipynb
+[I 10:36:56.051 NotebookApp] Saving file at /q3c.ipynb
+[I 10:37:51.350 NotebookApp] Saving file at /q3c.ipynb
+[I 10:38:24.383 NotebookApp] Saving file at /q3c.ipynb
+[I 10:38:47.728 NotebookApp] Saving file at /q3c.ipynb
+[I 10:39:52.216 NotebookApp] Saving file at /q3c.ipynb
+[I 10:43:23.069 NotebookApp] Saving file at /q3c.ipynb
+[I 10:43:51.322 NotebookApp] Saving file at /q3c.ipynb
+[I 10:45:51.318 NotebookApp] Saving file at /q3c.ipynb
+[I 10:47:51.319 NotebookApp] Saving file at /q3c.ipynb
+[I 10:47:54.895 NotebookApp] Saving file at /q3c.ipynb
+[I 10:47:55.193 NotebookApp] Saving file at /q3c.ipynb
+[I 10:47:55.256 NotebookApp] Saving file at /q3c.ipynb
+[I 10:47:57.029 NotebookApp] Saving file at /q3c.ipynb
+[I 10:48:01.555 NotebookApp] Saving file at /q3c.ipynb
+[I 10:48:01.909 NotebookApp] Saving file at /q3c.ipynb
+[I 10:48:01.965 NotebookApp] Saving file at /q3c.ipynb
+[I 10:48:15.539 NotebookApp] Saving file at /q3c.ipynb
+[I 10:49:51.319 NotebookApp] Saving file at /q3c.ipynb
+[I 10:51:50.416 NotebookApp] Saving file at /q3c.ipynb
+[I 10:53:51.426 NotebookApp] Saving file at /q3c.ipynb
+[I 10:55:52.261 NotebookApp] Saving file at /q3c.ipynb
+[I 10:57:51.386 NotebookApp] Saving file at /q3c.ipynb
+[I 10:59:51.393 NotebookApp] Saving file at /q3c.ipynb
+[I 11:01:41.307 NotebookApp] Saving file at /q3c.ipynb
+[I 11:01:51.385 NotebookApp] Saving file at /q3c.ipynb
+[I 11:01:51.822 NotebookApp] Saving file at /q3c.ipynb
+[I 11:03:51.324 NotebookApp] Saving file at /q3c.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 11:11:29.276 NotebookApp] [nb_conda_kernels] enabled, 4 kernels found
+[I 11:11:29.861 NotebookApp] [nb_anacondacloud] enabled
+[I 11:11:29.866 NotebookApp] [nb_conda] enabled
+[I 11:11:29.937 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 11:11:29.938 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 11:11:29.940 NotebookApp] Serving notebooks from local directory: /home/ubuntu/hk01/hk01
+[I 11:11:29.941 NotebookApp] 0 active kernels 
+[I 11:11:29.941 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=fcb4f9e911afed32435b73e82463aa93d67fec0ea1d1fa40
+[I 11:11:29.941 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 11:11:29.941 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=fcb4f9e911afed32435b73e82463aa93d67fec0ea1d1fa40
+[?1049h[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m(B[m[22d(B[0;1m[33m[44mGetting http://localhost:8888/notebooks/q3c.ipynb?token=6cd8f852391fedab79aab1c[K[39;49m(B[m(B[0;1m[33m[44mLooking up localhost:8888[K[39;49m(B[m(B[0;1m[33m[44mMaking HTTP connection to localhost:8888[39;49m(B[m(B[0;1m[33m[44mSending HTTP request.[K[39;49m(B[m(B[0;1m[33m[44mHTTP request sent; waiting for response.[39;49m(B[m
+
+[24;1H[?1049l[?1l>[I 11:11:30.002 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 11:11:39.179 NotebookApp] Saving file at /q3c.ipynb
+[I 11:11:56.552 NotebookApp] Kernel started: 03d73234-4b4b-4be3-989f-5106615c9141
+[I 11:11:58.787 NotebookApp] Adapting to protocol v5.1 for kernel 03d73234-4b4b-4be3-989f-5106615c9141
+[I 11:13:04.669 NotebookApp] Saving file at /q3c.ipynb
+[I 11:13:08.447 NotebookApp] Saving file at /q3c.ipynb
+[I 11:13:56.607 NotebookApp] Saving file at /q3c.ipynb
+[I 11:14:03.602 NotebookApp] Saving file at /q3c.ipynb
+[I 11:14:03.841 NotebookApp] Saving file at /q3c.ipynb
+[I 11:14:07.520 NotebookApp] Saving file at /q3c.ipynb
+[I 11:15:57.209 NotebookApp] Saving file at /q3c.ipynb
+[I 11:17:56.693 NotebookApp] Saving file at /q3c.ipynb
+[I 11:18:22.413 NotebookApp] Saving file at /q3c.ipynb
+[I 11:18:22.648 NotebookApp] Saving file at /q3c.ipynb
+[I 11:18:22.788 NotebookApp] Saving file at /q3c.ipynb
+[I 11:18:48.950 NotebookApp] Saving file at /q3c.ipynb
+[I 11:18:53.026 NotebookApp] Saving file at /q3c.ipynb
+[I 11:18:53.277 NotebookApp] Saving file at /q3c.ipynb
+[I 11:18:53.417 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:03.473 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:39.919 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:40.152 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:43.996 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:44.238 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:45.246 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:45.479 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:45.650 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:48.584 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:48.817 NotebookApp] Saving file at /q3c.ipynb
+[I 11:19:48.976 NotebookApp] Saving file at /q3c.ipynb
+[I 11:45:38.931 NotebookApp] Saving file at /q3c.ipynb
+[I 11:45:56.610 NotebookApp] Saving file at /q3c.ipynb
+[I 11:46:07.650 NotebookApp] Saving file at /q3c.ipynb
+[I 11:46:07.853 NotebookApp] Saving file at /q3c.ipynb
+[I 11:46:08.157 NotebookApp] Saving file at /q3c.ipynb
+[I 11:47:25.691 NotebookApp] Saving file at /q3c.ipynb
+[I 11:47:57.234 NotebookApp] Saving file at /q3c.ipynb
+[I 11:51:57.275 NotebookApp] Saving file at /q3c.ipynb
+[I 12:01:23.833 NotebookApp] Saving file at /q3c.ipynb
+[I 12:01:41.567 NotebookApp] Saving file at /q3c.ipynb
+[I 12:01:56.636 NotebookApp] Saving file at /q3c.ipynb
+[I 12:02:49.633 NotebookApp] Saving file at /q3c.ipynb
+[I 12:03:12.096 NotebookApp] Saving file at /q3c.ipynb
+[I 12:05:56.636 NotebookApp] Saving file at /q3c.ipynb
+[I 12:07:56.695 NotebookApp] Saving file at /q3c.ipynb
+[I 12:09:56.695 NotebookApp] Saving file at /q3c.ipynb
+[I 12:11:56.645 NotebookApp] Saving file at /q3c.ipynb
+[I 12:13:56.652 NotebookApp] Saving file at /q3c.ipynb
+[I 12:15:28.025 NotebookApp] Saving file at /q3c.ipynb
+[I 12:15:31.225 NotebookApp] Saving file at /q3c.ipynb
+[I 12:15:33.308 NotebookApp] Saving file at /q3c.ipynb
+[I 12:15:35.353 NotebookApp] Saving file at /q3c.ipynb
+[I 12:15:36.425 NotebookApp] Saving file at /q3c.ipynb
+[I 12:15:58.449 NotebookApp] Saving file at /q3c.ipynb
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 12:17:08.690 NotebookApp] [nb_conda_kernels] enabled, 4 kernels found
+[I 12:17:09.012 NotebookApp] [nb_anacondacloud] enabled
+[I 12:17:09.014 NotebookApp] [nb_conda] enabled
+[I 12:17:09.047 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 12:17:09.047 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 12:17:09.049 NotebookApp] Serving notebooks from local directory: /home/ubuntu/hk01/hk01
+[I 12:17:09.049 NotebookApp] 0 active kernels 
+[I 12:17:09.049 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=95ec1e581a7104624ec4a352240773ef85c92a2830635623
+[I 12:17:09.049 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:17:09.050 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=95ec1e581a7104624ec4a352240773ef85c92a2830635623
+[?1049h[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m(B[m[22d(B[0;1m[33m[44mGetting http://localhost:8888/notebooks/q3c.ipynb?token=68f69078519d219146f9a5f[K[39;49m(B[m(B[0;1m[33m[44mLooking up localhost:8888[K[39;49m(B[m(B[0;1m[33m[44mMaking HTTP connection to localhost:8888[39;49m(B[m(B[0;1m[33m[44mSending HTTP request.[K[39;49m(B[m(B[0;1m[33m[44mHTTP request sent; waiting for response.[39;49m(B[m
+
+[24;1H[?1049l[?1l>[I 12:17:09.063 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 12:17:18.238 NotebookApp] 404 GET /api/kernels/03d73234-4b4b-4be3-989f-5106615c9141/channels?session_id=2DC01218C1B242A687756558D9FFBFFF (127.0.0.1): Kernel does not exist: 03d73234-4b4b-4be3-989f-5106615c9141
+[W 12:17:18.244 NotebookApp] 404 GET /api/kernels/03d73234-4b4b-4be3-989f-5106615c9141/channels?session_id=2DC01218C1B242A687756558D9FFBFFF (127.0.0.1) 12.12ms referer=None
+[W 12:17:51.325 NotebookApp] Replacing stale connection: 03d73234-4b4b-4be3-989f-5106615c9141:2DC01218C1B242A687756558D9FFBFFF
+[I 12:18:54.241 NotebookApp] Kernel started: 185e274a-4e21-4b23-a0ac-a8b900ba54a7
+[I 12:18:55.393 NotebookApp] Adapting to protocol v5.1 for kernel 185e274a-4e21-4b23-a0ac-a8b900ba54a7
+[I 12:18:59.688 NotebookApp] Saving file at /q3c.ipynb
+[I 12:19:07.345 NotebookApp] Saving file at /q3c.ipynb
+[I 12:20:51.242 NotebookApp] KernelRestarter: restarting kernel (1/5)
+WARNING:root:kernel 185e274a-4e21-4b23-a0ac-a8b900ba54a7 restarted
+[I 12:21:00.439 NotebookApp] Saving file at /q3c.ipynb
+[I 12:21:35.578 NotebookApp] Adapting to protocol v5.1 for kernel 185e274a-4e21-4b23-a0ac-a8b900ba54a7
+[IPKernelApp] WARNING | Parent appears to have exited, shutting down.
+[I 12:21:56.412 NotebookApp] [nb_conda_kernels] enabled, 4 kernels found
+[I 12:21:56.731 NotebookApp] [nb_anacondacloud] enabled
+[I 12:21:56.734 NotebookApp] [nb_conda] enabled
+[I 12:21:56.766 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 12:21:56.766 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 12:21:56.768 NotebookApp] Serving notebooks from local directory: /home/ubuntu/hk01/hk01
+[I 12:21:56.768 NotebookApp] 0 active kernels 
+[I 12:21:56.768 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=8dab3a6cd9ed7e0e55dd64e338136f03cdb81963e2f97ef8
+[I 12:21:56.768 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:21:56.769 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=8dab3a6cd9ed7e0e55dd64e338136f03cdb81963e2f97ef8
+[?1049h[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m(B[m[22d(B[0;1m[33m[44mGetting http://localhost:8888/notebooks/q3c.ipynb?token=de1c1891211f7b4a77c026b[K[39;49m(B[m(B[0;1m[33m[44mLooking up localhost:8888[K[39;49m(B[m(B[0;1m[33m[44mMaking HTTP connection to localhost:8888[39;49m(B[m(B[0;1m[33m[44mSending HTTP request.[K[39;49m(B[m(B[0;1m[33m[44mHTTP request sent; waiting for response.[39;49m(B[m
+
+[24;1H[?1049l[?1l>[I 12:21:56.782 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 12:22:06.264 NotebookApp] 404 GET /api/kernels/185e274a-4e21-4b23-a0ac-a8b900ba54a7/channels?session_id=C582D4893CB0466D8AF7516DDD44C710 (127.0.0.1): Kernel does not exist: 185e274a-4e21-4b23-a0ac-a8b900ba54a7
+[W 12:22:06.270 NotebookApp] 404 GET /api/kernels/185e274a-4e21-4b23-a0ac-a8b900ba54a7/channels?session_id=C582D4893CB0466D8AF7516DDD44C710 (127.0.0.1) 10.24ms referer=None
+[W 12:22:11.249 NotebookApp] Replacing stale connection: 185e274a-4e21-4b23-a0ac-a8b900ba54a7:C582D4893CB0466D8AF7516DDD44C710
+[I 12:22:29.900 NotebookApp] [nb_conda_kernels] enabled, 4 kernels found
+[I 12:22:30.221 NotebookApp] [nb_anacondacloud] enabled
+[I 12:22:30.224 NotebookApp] [nb_conda] enabled
+[I 12:22:30.256 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 12:22:30.256 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 12:22:30.258 NotebookApp] Serving notebooks from local directory: /home/ubuntu/hk01/hk01
+[I 12:22:30.258 NotebookApp] 0 active kernels 
+[I 12:22:30.258 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=d83ccf0893d4028e9bb56135db716e35339918405375fe3a
+[I 12:22:30.259 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:22:30.259 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=d83ccf0893d4028e9bb56135db716e35339918405375fe3a
+[?1049h[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m(B[m[22d(B[0;1m[33m[44mGetting http://localhost:8888/notebooks/q3c.ipynb?token=601b6d49583f808496d5b55[K[39;49m(B[m(B[0;1m[33m[44mLooking up localhost:8888[K[39;49m(B[m(B[0;1m[33m[44mMaking HTTP connection to localhost:8888[39;49m(B[m(B[0;1m[33m[44mSending HTTP request.[K[39;49m(B[m(B[0;1m[33m[44mHTTP request sent; waiting for response.[39;49m(B[m
+
+[24;1H[?1049l[?1l>[I 12:22:30.272 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 12:22:56.175 NotebookApp] Kernel started: 4de572e8-0a9d-4ac2-a09a-43e0eddd42d5
+[I 12:23:13.851 NotebookApp] Adapting to protocol v5.1 for kernel 4de572e8-0a9d-4ac2-a09a-43e0eddd42d5
+[I 12:24:23.667 NotebookApp] Saving file at /q3c.ipynb
+[I 12:25:12.875 NotebookApp] Saving file at /q3c.ipynb
+[I 12:27:13.256 NotebookApp] Saving file at /q3c.ipynb
+[I 12:29:12.860 NotebookApp] Saving file at /q3c.ipynb
+[I 12:31:12.876 NotebookApp] Saving file at /q3c.ipynb
+[I 12:33:12.870 NotebookApp] Saving file at /q3c.ipynb
+[I 12:35:12.877 NotebookApp] Saving file at /q3c.ipynb
+[I 12:35:47.497 NotebookApp] Saving file at /q3c.ipynb
+[I 12:35:50.983 NotebookApp] Saving file at /q3c.ipynb
+[I 12:36:00.044 NotebookApp] Saving file at /q3c.ipynb
+[I 12:36:12.670 NotebookApp] Saving file at /q3c.ipynb
+[I 12:37:12.872 NotebookApp] Saving file at /q3c.ipynb
+[I 12:39:12.873 NotebookApp] Saving file at /q3c.ipynb
+[I 12:39:33.190 NotebookApp] Saving file at /q3c.ipynb
+[I 12:39:35.801 NotebookApp] Saving file at /q3c.ipynb
+[I 12:39:36.108 NotebookApp] Saving file at /q3c.ipynb
+[I 12:41:13.481 NotebookApp] Saving file at /q3c.ipynb
+[I 12:43:27.648 NotebookApp] Saving file at /q3c.ipynb
+[I 12:43:27.883 NotebookApp] Saving file at /q3c.ipynb
+[I 12:44:30.333 NotebookApp] Saving file at /q3c.ipynb
+[I 12:44:38.196 NotebookApp] Saving file at /q3c.ipynb
+[I 12:44:38.428 NotebookApp] Saving file at /q3c.ipynb
+[I 12:44:38.598 NotebookApp] Saving file at /q3c.ipynb
+[I 12:44:38.779 NotebookApp] Saving file at /q3c.ipynb
+[I 12:45:12.876 NotebookApp] Saving file at /q3c.ipynb
+[I 12:45:23.800 NotebookApp] Saving file at /q3c.ipynb
+[I 12:45:24.035 NotebookApp] Saving file at /q3c.ipynb
+[I 12:45:29.193 NotebookApp] Saving file at /q3c.ipynb
+[I 12:47:13.342 NotebookApp] Saving file at /q3c.ipynb
+[I 12:49:13.260 NotebookApp] Saving file at /q3c.ipynb
+[I 12:51:13.329 NotebookApp] Saving file at /q3c.ipynb
+[I 12:53:13.345 NotebookApp] Saving file at /q3c.ipynb
+[I 12:55:13.262 NotebookApp] Saving file at /q3c.ipynb
+[I 12:57:13.266 NotebookApp] Saving file at /q3c.ipynb
+[I 12:59:13.263 NotebookApp] Saving file at /q3c.ipynb
+[I 13:01:13.267 NotebookApp] Saving file at /q3c.ipynb
+[I 13:03:13.326 NotebookApp] Saving file at /q3c.ipynb
+[I 13:05:13.334 NotebookApp] Saving file at /q3c.ipynb
+[I 13:07:13.337 NotebookApp] Saving file at /q3c.ipynb
+[I 13:08:00.235 NotebookApp] Saving file at /q3c.ipynb
+[I 13:09:13.019 NotebookApp] Saving file at /q3c.ipynb
+[I 13:10:13.607 NotebookApp] Saving file at /q3c.ipynb
+[I 13:11:13.020 NotebookApp] Saving file at /q3c.ipynb
+[I 13:11:16.164 NotebookApp] Saving file at /q3c.ipynb
+[I 13:11:17.313 NotebookApp] Saving file at /q3c.ipynb
+[I 13:12:12.962 NotebookApp] Saving file at /q3c.ipynb
+[I 13:12:13.240 NotebookApp] Saving file at /q3c.ipynb
+[I 13:12:13.337 NotebookApp] Saving file at /q3c.ipynb
+[I 13:13:13.029 NotebookApp] Saving file at /q3c.ipynb
+[I 13:15:13.054 NotebookApp] Saving file at /q3c.ipynb
+[I 13:15:20.605 NotebookApp] Saving file at /q3c.ipynb
+[I 13:15:49.369 NotebookApp] Saving file at /q3c.ipynb
+[I 13:19:13.014 NotebookApp] Saving file at /q3c.ipynb
+[I 13:21:13.027 NotebookApp] Saving file at /q3c.ipynb
+[I 13:21:41.668 NotebookApp] Saving file at /q3c.ipynb
+[I 13:22:55.933 NotebookApp] Saving file at /q3c.ipynb
+[I 13:23:12.961 NotebookApp] Saving file at /q3c.ipynb
+[I 13:23:31.092 NotebookApp] Saving file at /q3c.ipynb
+[I 13:23:39.245 NotebookApp] Saving file at /q3c.ipynb
+[I 13:25:12.965 NotebookApp] Saving file at /q3c.ipynb
+[I 13:26:40.413 NotebookApp] Saving file at /q3c.ipynb
+[I 13:27:12.981 NotebookApp] Saving file at /q3c.ipynb
+[I 13:29:12.956 NotebookApp] Saving file at /q3c.ipynb
+[I 13:29:35.655 NotebookApp] Saving file at /q3c.ipynb
+[I 13:31:12.975 NotebookApp] Saving file at /q3c.ipynb
+[I 13:33:12.983 NotebookApp] Saving file at /q3c.ipynb
+[I 13:34:23.550 NotebookApp] Saving file at /q3c.ipynb
+[I 13:35:07.068 NotebookApp] Saving file at /q3c.ipynb
+[I 13:35:12.974 NotebookApp] Saving file at /q3c.ipynb
+[I 13:37:12.977 NotebookApp] Saving file at /q3c.ipynb
+[I 13:38:42.729 NotebookApp] Saving file at /q3c.ipynb
+[I 13:39:12.963 NotebookApp] Saving file at /q3c.ipynb
+[I 13:39:43.535 NotebookApp] Saving file at /q3c.ipynb
+[I 13:41:13.004 NotebookApp] Saving file at /q3c.ipynb
+[I 13:41:14.423 NotebookApp] Saving file at /q3c.ipynb
+[I 13:43:12.992 NotebookApp] Saving file at /q3c.ipynb
+[I 13:46:06.921 NotebookApp] Saving file at /q3c.ipynb
+[I 13:46:20.994 NotebookApp] Saving file at /q3c.ipynb
+[I 13:47:13.337 NotebookApp] Saving file at /q3c.ipynb
+[I 13:48:48.143 NotebookApp] Saving file at /q3c.ipynb
+[I 13:48:48.374 NotebookApp] Saving file at /q3c.ipynb
+[I 13:51:12.974 NotebookApp] Saving file at /q3c.ipynb
+[I 13:51:13.865 NotebookApp] Saving file at /q3c.ipynb
+[I 13:51:21.622 NotebookApp] Saving file at /q3c.ipynb
+[I 13:51:34.669 NotebookApp] Saving file at /q3c.ipynb
+[I 13:51:38.894 NotebookApp] Saving file at /q3c.ipynb
+[I 13:51:39.146 NotebookApp] Saving file at /q3c.ipynb
+[I 13:52:06.508 NotebookApp] Saving file at /q3c.ipynb
+[I 13:52:06.672 NotebookApp] Saving file at /q3c.ipynb
+[I 13:53:05.260 NotebookApp] Saving file at /q3c.ipynb
+[I 13:55:12.978 NotebookApp] Saving file at /q3c.ipynb
+[I 13:55:31.780 NotebookApp] Saving file at /q3c.ipynb
+[I 13:56:11.777 NotebookApp] Saving file at /q3c.ipynb
+[I 13:57:00.607 NotebookApp] Saving file at /q3c.ipynb
+[I 13:57:13.028 NotebookApp] Saving file at /q3c.ipynb
+[I 13:57:40.548 NotebookApp] Saving file at /q3c.ipynb
+[I 13:57:54.582 NotebookApp] Saving file at /q3c.ipynb
+[I 13:58:02.987 NotebookApp] Saving file at /q3c.ipynb
+[I 13:58:42.671 NotebookApp] Saving file at /q3c.ipynb
+[I 13:59:22.534 NotebookApp] Saving file at /q3c.ipynb
+[I 13:59:34.722 NotebookApp] Saving file at /q3c.ipynb
+[I 14:00:15.532 NotebookApp] Saving file at /q3c.ipynb
+[I 14:01:01.875 NotebookApp] Saving file at /q3c.ipynb
+[I 14:01:08.049 NotebookApp] Saving file at /q3c.ipynb
+[I 14:01:34.650 NotebookApp] Saving file at /q3c.ipynb
+[I 14:02:25.003 NotebookApp] Saving file at /q3c.ipynb
+[I 14:03:00.426 NotebookApp] Saving file at /q3c.ipynb
+[I 14:03:00.806 NotebookApp] Saving file at /q3c.ipynb
+[I 14:04:11.143 NotebookApp] Saving file at /q3c.ipynb
+[I 14:07:12.964 NotebookApp] Saving file at /q3c.ipynb
+[I 14:09:13.001 NotebookApp] Saving file at /q3c.ipynb
+[I 14:09:33.338 NotebookApp] Saving file at /q3c.ipynb
+[I 14:09:44.301 NotebookApp] Saving file at /q3c.ipynb
+[I 14:09:50.049 NotebookApp] Saving file at /q3c.ipynb
+[I 14:11:52.628 NotebookApp] Saving file at /q3c.ipynb
+[I 14:12:55.249 NotebookApp] Saving file at /q3c.ipynb
+[I 14:13:37.458 NotebookApp] Saving file at /q3c.ipynb
+[I 14:14:27.948 NotebookApp] Saving file at /q3c.ipynb
+[I 14:14:36.929 NotebookApp] Saving file at /q3c.ipynb
+[I 14:15:04.641 NotebookApp] Saving file at /q3c.ipynb
+[I 14:15:07.749 NotebookApp] Saving file at /q3c.ipynb
+[I 14:15:07.922 NotebookApp] Saving file at /q3c.ipynb
+[I 14:15:23.975 NotebookApp] Saving file at /q3c.ipynb
+[I 14:17:31.382 NotebookApp] Saving file at /q3c.ipynb
+[I 14:17:39.242 NotebookApp] Saving file at /q3c.ipynb
+[I 14:17:39.549 NotebookApp] Saving file at /q3c.ipynb
+[I 14:17:39.745 NotebookApp] Saving file at /q3c.ipynb
