@@ -543,3 +543,51 @@ WARNING:root:kernel 185e274a-4e21-4b23-a0ac-a8b900ba54a7 restarted
 [I 16:20:53.471 NotebookApp] Saving file at /q3c.ipynb
 [I 16:20:53.534 NotebookApp] Saving file at /q3c.ipynb
 [I 16:21:01.745 NotebookApp] Saving file at /q3c.ipynb
+[C 18:41:09.720 NotebookApp] received signal 15, stopping
+[I 18:41:09.720 NotebookApp] Shutting down kernels
+[I 18:41:09.821 NotebookApp] Kernel shutdown: 4de572e8-0a9d-4ac2-a09a-43e0eddd42d5
+[C 16:53:46.371 NotebookApp] No such file or directory: /home/ubuntu/hk01/hk01/offsite_test.ipynb
+[C 16:54:02.582 NotebookApp] No such file or directory: /home/ubuntu/hk01/hk01/offsite_test.ipynb
+[I 16:54:22.885 NotebookApp] [nb_conda_kernels] enabled, 4 kernels found
+[I 16:54:22.889 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 16:54:23.588 NotebookApp] [nb_anacondacloud] enabled
+[I 16:54:23.597 NotebookApp] [nb_conda] enabled
+[I 16:54:23.690 NotebookApp] ✓ nbpresent HTML export ENABLED
+[W 16:54:23.690 NotebookApp] ✗ nbpresent PDF export DISABLED: No module named 'nbbrowserpdf'
+[I 16:54:23.692 NotebookApp] Serving notebooks from local directory: /home/ubuntu/hk01/hk01
+[I 16:54:23.692 NotebookApp] 0 active kernels 
+[I 16:54:23.692 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/?token=ce4c73e2b7fcc5b56480b350da17dcdb1a5537993ade82bb
+[I 16:54:23.692 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:54:23.693 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=ce4c73e2b7fcc5b56480b350da17dcdb1a5537993ade82bb
+[?1049h[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m(B[m[22d(B[0;1m[33m[44mGetting http://localhost:8888/tree?token=53775ba760cc4fabf3543af4e520cae5447eac[K[39;49m(B[m(B[0;1m[33m[44mLooking up localhost:8888[K[39;49m(B[m(B[0;1m[33m[44mMaking HTTP connection to localhost:8888[39;49m(B[m(B[0;1m[33m[44mSending HTTP request.[K[39;49m(B[m(B[0;1m[33m[44mHTTP request sent; waiting for response.[39;49m(B[m
+
+[24;1H[?1049l[?1l>[I 16:54:23.749 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 16:54:42.593 NotebookApp] 302 GET /?token=ce4c73e2b7fcc5b56480b350da17dcdb1a5537993ade82bb (127.0.0.1) 0.48ms
+[I 16:55:20.255 NotebookApp] Kernel started: 131082d6-eaf4-48ab-838c-264f8f702326
+[I 16:55:21.980 NotebookApp] Adapting to protocol v5.1 for kernel 131082d6-eaf4-48ab-838c-264f8f702326
+[I 17:04:09.866 NotebookApp] Kernel started: 255ba0f4-84a8-4946-8dd2-38080b8de331
+[I 17:04:11.987 NotebookApp] Adapting to protocol v5.1 for kernel 255ba0f4-84a8-4946-8dd2-38080b8de331
+[I 17:51:19.393 NotebookApp] Kernel started: e91c77f6-7ceb-48f5-9de3-83eabf3cc7c4
+[I 17:51:20.150 NotebookApp] Adapting to protocol v5.1 for kernel e91c77f6-7ceb-48f5-9de3-83eabf3cc7c4
+[I 17:51:35.299 NotebookApp] Saving file at /q3b.ipynb
+[I 17:55:33.520 NotebookApp] Saving file at /q3b.ipynb
+[I 17:56:06.360 NotebookApp] Saving file at /q3b.ipynb
+[I 18:03:50.272 NotebookApp] Saving file at /q3b.ipynb
+[I 18:05:19.454 NotebookApp] Saving file at /q3b.ipynb
+[I 18:10:40.921 NotebookApp] Saving file at /q3b.ipynb
+[I 18:11:19.464 NotebookApp] Saving file at /q3b.ipynb
+[I 18:13:19.502 NotebookApp] Saving file at /q3b.ipynb
+[I 19:09:20.368 NotebookApp] Saving file at /q3b.ipynb
+[I 19:11:19.504 NotebookApp] Saving file at /q3b.ipynb
+[I 19:23:19.496 NotebookApp] Saving file at /q3b.ipynb
+[I 19:36:12.504 NotebookApp] Saving file at /q3b.ipynb
+[I 19:37:35.407 NotebookApp] Saving file at /q3b.ipynb
+[I 19:39:20.918 NotebookApp] Saving file at /q3b.ipynb
+[I 19:47:13.542 NotebookApp] Kernel started: 390392f8-67a8-4031-9de3-31f8c93d95ba
+[I 19:47:14.366 NotebookApp] Adapting to protocol v5.1 for kernel 390392f8-67a8-4031-9de3-31f8c93d95ba
+[I 20:05:44.713 NotebookApp] Saving file at /q3c.ipynb
+[I 20:05:44.957 NotebookApp] Saving file at /q3c.ipynb
