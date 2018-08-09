@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="js/jquery.min.js"></script>
+<script>
+$(document).ready(function(){
+
+    var get_result = function(){
+      $.get( "/vote", function( data ) {
+        var voting_result = data['result'];
+        voting_result.forEach(function(vr){
+          $('#'+vr['candidate']).html(vr['votes']);
+        });
+      });      
+    };
+    get_result();
+
+    $('#btnVote').click(function(){
+      console.log($('input[name=candidate]:checked').val() );
+      var candidate = $('input[name=candidate]:checked').val()
+
+      $.ajax({
+        type: "POST",
+        url: "/vote",
+        data: JSON.stringify({'candidate':candidate}),
+        success: function( data ) {
+          if (data['status'] == 'SUCCESS'){
+            get_result();
+          }
+        },
+        contentType: "application/json",
+        dataType: 'json'
+      });      
+    });
+
+    // $("button").click(function(){
+    //     var convo = $('#convo');
+    //     var question = $('#q').val();
+    //     var question_template = `<p style="color:blue">${question}</p>`
+    //     convo.append(question_template);
+    //     $.ajax({
+    //       type: "POST",
+    //       url: 'ask/123',
+    //       contentType: "application/json",
+    //       data: JSON.stringify({question: question}),
+    //       success: function(data){
+    //           var answer = data.answer;
+    //           var answer_template = `<p style="color:red">${answer}</p>`
+    //           convo.append(answer_template);            
+    //       },
+    //       dataType: "json"
+    //     });
+
+    
+    // });
+});
+</script>
+</head>
+<body>
+<div id="voting-panel">
+  <form>
+    <input type="radio" name="candidate" value="林林">林林
+    <input type="radio" name="candidate" value="正氣">正氣
+    <input type="radio" name="candidate" value="薯片">薯片
+    <input id="btnVote" type="button" value="Vote">
+  </form>
+</div>
+<div>
+  <h1>Voting Result</h1>
+  <table>
+    <thead>
+      <tr>
+        <th>Candidate</th>
+        <th>Votes</th>
+      </tr>      
+    </thead>
+    <tbody>
+      <tr>
+        <td>林林</td>
+        <td><p id="林林"></p></td>
+      </tr>
+      <tr>
+        <td>正氣</td>
+        <td><p id="正氣"></p></td>
+      </tr>
+      <tr>
+        <td>薯片</td>
+        <td><p id="薯片"></p></td>
+      </tr>      
+    </tbody>
+  </table>
+  
+</div>
+
+</body>
+</html>
